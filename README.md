@@ -1,0 +1,1 @@
+# coraza-remote-rules-sample
